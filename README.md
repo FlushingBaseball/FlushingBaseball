@@ -1,7 +1,13 @@
-Hey, hope you're enjoying 2024 so far!
+Hey, I'm Sam. Here's a list of things I'm currently working on:
 
-I'm currently doing a deep dive into algorithmic studies right now, but that hasn't stopped me from pushing forward on larger ongoing projects like Armchair Saber. 
-I'm also doing alot of interesting design work for a VR game!
+📚 Deep diving into
+  ✏️ Algorithmic studies (mostly on LeetCode and AlgoExpert)
+  ✏️ NextJS and Shopify development
 
-Please reach out if you want to collaborate or if you spot an issue with my code, cheers!
+📑 Large ongoing projects like
+  ✏️ Armchair Sabermetrics (my baseball analytics platform)
 
+🌱 Minor ongoing projects
+  ✏️ User Interface design work for a VR game! (Unreal Engine 5)
+
+Please reach out if you want to collaborate. Cheers!
