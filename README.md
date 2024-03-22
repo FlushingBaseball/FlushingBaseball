@@ -9,5 +9,7 @@ Hey, I'm Sam. Here's a list of things I'm currently working on:
 
 🌱 Minor ongoing projects
   ✏️ User Interface design work for a VR game! (Unreal Engine 5)
+  ✏️ Renewing my Amazon Certifications 
+  
 
 Please reach out if you want to collaborate. Cheers!
